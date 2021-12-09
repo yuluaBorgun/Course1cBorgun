@@ -3,7 +3,7 @@
   <name>МебельДомТорг</name>
   <synonym>
     <key>ru</key>
-    <value>ООО &quot;Мебель дом торг&quot;</value>
+    <value>ООО &quot;Мебель  дом торг&quot;</value>
   </synonym>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="1c3d5aa5-aa62-43b1-a40b-b588c37b1153"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="af3c91d8-1043-4ed5-befd-6ce1d09459ee"/>
@@ -57,6 +57,9 @@
   <documents>Document.УстановкаЦенНоменклатуры</documents>
   <documentJournals>DocumentJournal.ТорговыеДокументы</documentJournals>
   <enums>Enum.ТипыТоваров</enums>
+  <reports>Report.ОтчетПоКонтрагентам</reports>
+  <reports>Report.ПоставщикиНоменклатура</reports>
+  <reports>Report.ПродажаТоваровПоДокументам</reports>
   <informationRegisters>InformationRegister.КурсыВалют</informationRegisters>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
   <accumulationRegisters>AccumulationRegister.Взаиморасчеты</accumulationRegisters>

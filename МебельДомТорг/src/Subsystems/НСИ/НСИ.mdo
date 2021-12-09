@@ -16,4 +16,6 @@
   <content>Catalog.Валюты</content>
   <content>InformationRegister.КурсыВалют</content>
   <content>Constant.НаименованиеОрганизации</content>
+  <content>Report.ОтчетПоКонтрагентам</content>
+  <content>Report.ПоставщикиНоменклатура</content>
 </mdclass:Subsystem>

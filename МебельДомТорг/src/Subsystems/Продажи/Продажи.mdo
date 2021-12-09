@@ -17,4 +17,5 @@
   <content>InformationRegister.ЦеныНоменклатуры</content>
   <content>AccumulationRegister.Взаиморасчеты</content>
   <content>AccumulationRegister.Продажи</content>
+  <content>Report.ПродажаТоваровПоДокументам</content>
 </mdclass:Subsystem>
