@@ -69,4 +69,5 @@
   <accumulationRegisters>AccumulationRegister.Взаиморасчеты</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ТоварыНаСкладах</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.СебестоимостьТоваров</accumulationRegisters>
 </mdclass:Configuration>

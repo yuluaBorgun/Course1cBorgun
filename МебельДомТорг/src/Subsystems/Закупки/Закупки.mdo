@@ -13,4 +13,5 @@
   <content>Document.ПоступлениеТоваровИУслуг</content>
   <content>DocumentJournal.ТорговыеДокументы</content>
   <content>AccumulationRegister.ТоварыНаСкладах</content>
+  <content>AccumulationRegister.СебестоимостьТоваров</content>
 </mdclass:Subsystem>

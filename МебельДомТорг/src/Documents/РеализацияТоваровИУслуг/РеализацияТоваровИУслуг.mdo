@@ -66,8 +66,10 @@
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
   <defaultObjectForm>Document.РеализацияТоваровИУслуг.Form.ФормаДокумента</defaultObjectForm>
+  <registerRecordsDeletion>AutoDelete</registerRecordsDeletion>
   <registerRecords>AccumulationRegister.ТоварыНаСкладах</registerRecords>
   <registerRecords>AccumulationRegister.Продажи</registerRecords>
+  <registerRecords>AccumulationRegister.СебестоимостьТоваров</registerRecords>
   <registerRecords>AccumulationRegister.Взаиморасчеты</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>

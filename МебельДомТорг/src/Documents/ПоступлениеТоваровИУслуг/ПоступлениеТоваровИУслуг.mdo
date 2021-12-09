@@ -66,6 +66,7 @@
   <autonumbering>true</autonumbering>
   <defaultObjectForm>Document.ПоступлениеТоваровИУслуг.Form.ФормаДокумента</defaultObjectForm>
   <registerRecords>AccumulationRegister.ТоварыНаСкладах</registerRecords>
+  <registerRecords>AccumulationRegister.СебестоимостьТоваров</registerRecords>
   <registerRecords>AccumulationRegister.Взаиморасчеты</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
