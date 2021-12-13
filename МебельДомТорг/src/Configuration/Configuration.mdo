@@ -64,6 +64,10 @@
   <reports>Report.ОстаткиВзаиморасчетов</reports>
   <reports>Report.ПродажиТоваров</reports>
   <reports>Report.ПродажиПоДаннымТабличнойЧасти</reports>
+  <reports>Report.ВаловаяПрибыль</reports>
+  <reports>Report.СводныйОтчетОПродажах</reports>
+  <reports>Report.ПродажиДиаграмма</reports>
+  <reports>Report.ГрафикПродажПоКлиентам</reports>
   <informationRegisters>InformationRegister.КурсыВалют</informationRegisters>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
   <accumulationRegisters>AccumulationRegister.Взаиморасчеты</accumulationRegisters>

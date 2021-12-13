@@ -21,4 +21,8 @@
   <content>Report.ОстаткиВзаиморасчетов</content>
   <content>Report.ПродажиТоваров</content>
   <content>Report.ПродажиПоДаннымТабличнойЧасти</content>
+  <content>Report.ВаловаяПрибыль</content>
+  <content>Report.СводныйОтчетОПродажах</content>
+  <content>Report.ПродажиДиаграмма</content>
+  <content>Report.ГрафикПродажПоКлиентам</content>
 </mdclass:Subsystem>
