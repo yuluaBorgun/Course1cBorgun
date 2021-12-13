@@ -42,9 +42,11 @@
   <subsystems>Subsystem.Продажи</subsystems>
   <subsystems>Subsystem.Закупки</subsystems>
   <subsystems>Subsystem.НСИ</subsystems>
+  <subsystems>Subsystem.БухУчет</subsystems>
   <commonPictures>CommonPicture.ПодсистемаПродажи</commonPictures>
   <commonPictures>CommonPicture.ПодсистемаЗакупки</commonPictures>
   <commonPictures>CommonPicture.ПодсистемаНСИ</commonPictures>
+  <commonPictures>CommonPicture.ПодсистемаБухУчет</commonPictures>
   <constants>Constant.НаименованиеОрганизации</constants>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
@@ -74,4 +76,6 @@
   <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ТоварыНаСкладах</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.СебестоимостьТоваров</accumulationRegisters>
+  <chartsOfAccounts>ChartOfAccounts.БухгалтерскийУчет</chartsOfAccounts>
+  <accountingRegisters>AccountingRegister.РегистрБухУчет</accountingRegisters>
 </mdclass:Configuration>
