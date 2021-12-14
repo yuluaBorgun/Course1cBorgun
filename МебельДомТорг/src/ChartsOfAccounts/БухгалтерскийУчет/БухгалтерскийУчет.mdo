@@ -30,11 +30,6 @@
       <name>Активы</name>
       <description>Активы</description>
       <code>01</code>
-      <childItems id="43043330-f37d-4617-bfa3-3d81e43c1f87">
-        <name>Товары</name>
-        <description>Товары</description>
-        <code>01.1</code>
-      </childItems>
       <childItems id="0f3e2e87-3c29-4cb7-a11d-bb1f52751ed9">
         <name>Покупатели</name>
         <description>Покупатели</description>
@@ -50,22 +45,33 @@
         <description>Себестоимость</description>
         <code>01.4</code>
       </childItems>
+      <childItems id="43043330-f37d-4617-bfa3-3d81e43c1f87">
+        <name>Товары</name>
+        <description>Товары</description>
+        <code>01.1</code>
+      </childItems>
     </items>
     <items id="2ec7b25b-5906-4897-a890-f8dd5993af8b">
       <name>Пассивы</name>
       <description>Пассивы</description>
       <code>02</code>
       <accountType>Passive</accountType>
+      <childItems id="55977539-7446-4edb-a86a-dd6cdfcc4da6">
+        <name>Выручка</name>
+        <description>Выручка</description>
+        <code>02.2</code>
+        <accountType>Passive</accountType>
+      </childItems>
       <childItems id="79b5668b-e3be-412b-845b-3d26f8ef58ac">
         <name>Поставщик</name>
         <description>Поставщик</description>
         <code>02.1</code>
         <accountType>Passive</accountType>
       </childItems>
-      <childItems id="55977539-7446-4edb-a86a-dd6cdfcc4da6">
-        <name>Выручка</name>
-        <description>Выручка</description>
-        <code>02.2</code>
+      <childItems id="a423e12b-525c-49ad-ba54-0d701d042375">
+        <name>Прибыль</name>
+        <description>Прибыль</description>
+        <code>02.5</code>
         <accountType>Passive</accountType>
       </childItems>
     </items>

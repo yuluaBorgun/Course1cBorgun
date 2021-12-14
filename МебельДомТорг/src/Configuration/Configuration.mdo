@@ -58,6 +58,7 @@
   <documents>Document.ВыпискаБанка</documents>
   <documents>Document.УстановкаЦенНоменклатуры</documents>
   <documents>Document.БухгалтерскаяОперация</documents>
+  <documents>Document.ЗакрытиеМесяца</documents>
   <documentJournals>DocumentJournal.ТорговыеДокументы</documentJournals>
   <enums>Enum.ТипыТоваров</enums>
   <enums>Enum.Перечисление1</enums>
@@ -71,6 +72,8 @@
   <reports>Report.СводныйОтчетОПродажах</reports>
   <reports>Report.ПродажиДиаграмма</reports>
   <reports>Report.ГрафикПродажПоКлиентам</reports>
+  <reports>Report.ОстаткиПоСчетамБУ</reports>
+  <reports>Report.Баланс</reports>
   <informationRegisters>InformationRegister.КурсыВалют</informationRegisters>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
   <accumulationRegisters>AccumulationRegister.Взаиморасчеты</accumulationRegisters>
