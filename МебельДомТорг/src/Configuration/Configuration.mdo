@@ -65,6 +65,7 @@
   <documents>Document.УтверждениеГрафикаРабот</documents>
   <documents>Document.НачислениеОклада</documents>
   <documents>Document.НевыходСотрудника</documents>
+  <documents>Document.РасчетПремии</documents>
   <documentJournals>DocumentJournal.ТорговыеДокументы</documentJournals>
   <enums>Enum.ТипыТоваров</enums>
   <enums>Enum.Перечисление1</enums>

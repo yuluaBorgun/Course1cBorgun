@@ -17,4 +17,5 @@
   <content>Catalog.Сотрудники</content>
   <content>Document.НачислениеОклада</content>
   <content>Document.НевыходСотрудника</content>
+  <content>Document.РасчетПремии</content>
 </mdclass:Subsystem>

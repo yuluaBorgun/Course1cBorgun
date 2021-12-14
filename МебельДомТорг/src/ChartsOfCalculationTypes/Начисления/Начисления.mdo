@@ -32,6 +32,8 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <dependenceOnCalculationTypes>OnActionPeriod</dependenceOnCalculationTypes>
+  <baseCalculationTypes>ChartOfCalculationTypes.Начисления</baseCalculationTypes>
   <actionPeriodUse>true</actionPeriodUse>
   <predefined>
     <items id="7c75dc85-4500-49e9-94da-784fb70ad371">
@@ -41,6 +43,15 @@
         <value>001</value>
       </code>
       <displaced>ChartOfCalculationTypes.Начисления.Прогул</displaced>
+    </items>
+    <items id="bacc04fe-b772-45a0-bbdf-96167033acd4">
+      <name>Премия</name>
+      <description>Премия</description>
+      <code xsi:type="core:StringValue">
+        <value>003</value>
+      </code>
+      <actionPeriodIsBase>true</actionPeriodIsBase>
+      <base>ChartOfCalculationTypes.Начисления.Оклад</base>
     </items>
     <items id="d22eca57-82f4-40f3-9b3b-80b87a1a1d09">
       <name>Прогул</name>
