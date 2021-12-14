@@ -3,6 +3,8 @@
   <subsystemsOrder>
     <subsystems>Subsystem.Продажи</subsystems>
     <subsystems>Subsystem.Закупки</subsystems>
+    <subsystems>Subsystem.БухУчет</subsystems>
+    <subsystems>Subsystem.Зарплата</subsystems>
     <subsystems>Subsystem.НСИ</subsystems>
   </subsystemsOrder>
 </cmi:CommandInterface>
