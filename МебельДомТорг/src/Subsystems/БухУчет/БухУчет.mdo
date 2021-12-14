@@ -12,4 +12,5 @@
   </picture>
   <content>ChartOfAccounts.БухгалтерскийУчет</content>
   <content>AccountingRegister.РегистрБухУчет</content>
+  <content>Document.БухгалтерскаяОперация</content>
 </mdclass:Subsystem>

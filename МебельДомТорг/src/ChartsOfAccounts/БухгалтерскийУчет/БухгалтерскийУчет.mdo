@@ -24,6 +24,7 @@
   <codeLength>9</codeLength>
   <descriptionLength>25</descriptionLength>
   <checkUnique>true</checkUnique>
+  <defaultPresentation>AsDescription</defaultPresentation>
   <predefined>
     <items id="3d6a2ce9-ba28-43ab-a139-86772af87a56">
       <name>Активы</name>

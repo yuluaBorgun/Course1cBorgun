@@ -57,6 +57,7 @@
   <documents>Document.РеализацияТоваровИУслуг</documents>
   <documents>Document.ВыпискаБанка</documents>
   <documents>Document.УстановкаЦенНоменклатуры</documents>
+  <documents>Document.БухгалтерскаяОперация</documents>
   <documentJournals>DocumentJournal.ТорговыеДокументы</documentJournals>
   <enums>Enum.ТипыТоваров</enums>
   <enums>Enum.Перечисление1</enums>
