@@ -24,6 +24,7 @@
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
   <registerRecords>CalculationRegister.ЗаработнаяПлата</registerRecords>
+  <registerRecords>AccumulationRegister.ДолгиПоЗаработнойПлате</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <attributes uuid="691278ca-2e60-4f90-9210-bf2fc304aa85">

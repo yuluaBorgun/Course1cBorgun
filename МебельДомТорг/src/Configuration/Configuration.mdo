@@ -66,6 +66,7 @@
   <documents>Document.НачислениеОклада</documents>
   <documents>Document.НевыходСотрудника</documents>
   <documents>Document.РасчетПремии</documents>
+  <documents>Document.ВыплатаЗаработнойПлаты</documents>
   <documentJournals>DocumentJournal.ТорговыеДокументы</documentJournals>
   <enums>Enum.ТипыТоваров</enums>
   <enums>Enum.Перечисление1</enums>
@@ -81,6 +82,8 @@
   <reports>Report.ГрафикПродажПоКлиентам</reports>
   <reports>Report.ОстаткиПоСчетамБУ</reports>
   <reports>Report.Баланс</reports>
+  <reports>Report.НачисленияСотрудников</reports>
+  <reports>Report.ОтработанноеВремя</reports>
   <informationRegisters>InformationRegister.КурсыВалют</informationRegisters>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
   <informationRegisters>InformationRegister.ГрафикРаботы</informationRegisters>
@@ -88,6 +91,7 @@
   <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ТоварыНаСкладах</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.СебестоимостьТоваров</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ДолгиПоЗаработнойПлате</accumulationRegisters>
   <chartsOfAccounts>ChartOfAccounts.БухгалтерскийУчет</chartsOfAccounts>
   <accountingRegisters>AccountingRegister.РегистрБухУчет</accountingRegisters>
   <chartsOfCalculationTypes>ChartOfCalculationTypes.Начисления</chartsOfCalculationTypes>

@@ -18,4 +18,8 @@
   <content>Document.НачислениеОклада</content>
   <content>Document.НевыходСотрудника</content>
   <content>Document.РасчетПремии</content>
+  <content>AccumulationRegister.ДолгиПоЗаработнойПлате</content>
+  <content>Document.ВыплатаЗаработнойПлаты</content>
+  <content>Report.НачисленияСотрудников</content>
+  <content>Report.ОтработанноеВремя</content>
 </mdclass:Subsystem>
