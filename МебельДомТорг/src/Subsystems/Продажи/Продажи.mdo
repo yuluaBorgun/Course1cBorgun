@@ -25,4 +25,7 @@
   <content>Report.СводныйОтчетОПродажах</content>
   <content>Report.ПродажиДиаграмма</content>
   <content>Report.ГрафикПродажПоКлиентам</content>
+  <content>AccumulationRegister.ЭффективностьПродаж</content>
+  <content>Report.ЭффективностьРаботыМенеджеров</content>
+  <content>Report.КлассификацияКлиентов</content>
 </mdclass:Subsystem>
