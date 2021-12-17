@@ -28,4 +28,7 @@
   <content>AccumulationRegister.ЭффективностьПродаж</content>
   <content>Report.ЭффективностьРаботыМенеджеров</content>
   <content>Report.КлассификацияКлиентов</content>
+  <content>Catalog.СтатусыСделок</content>
+  <content>AccumulationRegister.ВоронкаПродаж</content>
+  <content>Report.ВоронкаПродаж</content>
 </mdclass:Subsystem>

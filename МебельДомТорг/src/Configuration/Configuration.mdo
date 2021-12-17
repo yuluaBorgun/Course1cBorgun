@@ -44,17 +44,20 @@
   <subsystems>Subsystem.НСИ</subsystems>
   <subsystems>Subsystem.БухУчет</subsystems>
   <subsystems>Subsystem.Зарплата</subsystems>
+  <subsystems>Subsystem.БизнесПроцессы</subsystems>
   <commonPictures>CommonPicture.ПодсистемаПродажи</commonPictures>
   <commonPictures>CommonPicture.ПодсистемаЗакупки</commonPictures>
   <commonPictures>CommonPicture.ПодсистемаНСИ</commonPictures>
   <commonPictures>CommonPicture.ПодсистемаБухУчет</commonPictures>
   <commonPictures>CommonPicture.ПодсистемаЗарплата</commonPictures>
+  <commonPictures>CommonPicture.ПодсистемаБизнесПроцессы</commonPictures>
   <constants>Constant.НаименованиеОрганизации</constants>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.СтатусыСделок</catalogs>
   <documents>Document.ЗаказКлиента</documents>
   <documents>Document.ПоступлениеТоваровИУслуг</documents>
   <documents>Document.РеализацияТоваровИУслуг</documents>
@@ -86,6 +89,7 @@
   <reports>Report.ОтработанноеВремя</reports>
   <reports>Report.ЭффективностьРаботыМенеджеров</reports>
   <reports>Report.КлассификацияКлиентов</reports>
+  <reports>Report.ВоронкаПродаж</reports>
   <informationRegisters>InformationRegister.КурсыВалют</informationRegisters>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
   <informationRegisters>InformationRegister.ГрафикРаботы</informationRegisters>
@@ -95,8 +99,13 @@
   <accumulationRegisters>AccumulationRegister.СебестоимостьТоваров</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ДолгиПоЗаработнойПлате</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ЭффективностьПродаж</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ВоронкаПродаж</accumulationRegisters>
   <chartsOfAccounts>ChartOfAccounts.БухгалтерскийУчет</chartsOfAccounts>
   <accountingRegisters>AccountingRegister.РегистрБухУчет</accountingRegisters>
   <chartsOfCalculationTypes>ChartOfCalculationTypes.Начисления</chartsOfCalculationTypes>
   <calculationRegisters>CalculationRegister.ЗаработнаяПлата</calculationRegisters>
+  <businessProcesses>BusinessProcess.ПриемСотрудникаНаРаботу</businessProcesses>
+  <businessProcesses>BusinessProcess.НастойчиваяПродажа</businessProcesses>
+  <tasks>Task.ЗадачиПриемаСотрудника</tasks>
+  <tasks>Task.ЗадачаНастойчивыхПродаж</tasks>
 </mdclass:Configuration>
